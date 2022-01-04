@@ -1,6 +1,6 @@
 const productsData = [
     {
-        name: "Appple IPAd pro",
+        name: "Apple IPAd pro",
         price: 279.000,
         image:
             "https://m.xcite.com/media/catalog/product/cache/1/thumbnail/700x700/9df78eab33525d08d6e5fb8d27136e95/g/r/grey_1_2.jpg"
@@ -42,3 +42,4 @@ const productsData = [
             "https://m.xcite.com/media/catalog/product/cache/1/thumbnail/700x700/9df78eab33525d08d6e5fb8d27136e95/a/i/airpods_max_green_1_1.jpg"
     }
 ];
+export default productsData
